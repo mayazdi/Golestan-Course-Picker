@@ -3,13 +3,18 @@
 This project can help you picking courses immidiately on course picking day.
 It types the digits instead of you.
 
-> This Project is tested on `golestan.sbu.ac.ir` (Shahid Beheshti University). It might not work on other Golestan systems properly.
+> This project is works on [golestan.sbu.ac.ir]() (Shahid Beheshti University). It might not work on other Golestan systems properly.
+
+![Golestan Course Picker](https://raw.githubusercontent.com/mayazdi/Golestan-Course-Picker/master/InkedGolestan_LI.jpg)
 
 ## Usage
 
-* Add enough empty rows.
-* Put the cursor on the group Field of first row.
+* Add enough empty rows (`سطر جدید`).
+* Put the cursor on the group Field of first row. (pointed in picture)
 * Add desired courses in the code. for example: `TypeCourse("4302110", "02");`
+
+> `TypeCourse("course number", "group");`
+
 * As long as compilation might take some time, Run the program once, that final usage runs faster.
 * Whenever all numbers were written, You just press Sumbit button (`اعمال تغییرات`).
 * Have a good semester.
