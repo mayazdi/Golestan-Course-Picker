@@ -3,7 +3,7 @@
 This project can help you picking courses immidiately on course picking day.
 It types the digits instead of you.
 
-> This project is works on [golestan.sbu.ac.ir](golestan.sbu.ac.ir) (Shahid Beheshti University). It might not work on other Golestan systems properly.
+> This project is works on [golestan.sbu.ac.ir](http://golestan.sbu.ac.ir) (Shahid Beheshti University). It might not work on other Golestan systems properly.
 
 ![Golestan Course Picker](https://raw.githubusercontent.com/mayazdi/Golestan-Course-Picker/master/InkedGolestan_LI.jpg)
 
