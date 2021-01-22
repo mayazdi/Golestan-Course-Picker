@@ -79,18 +79,13 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        //Remove the following line if delay is not needed
         try {
             TimeUnit.SECONDS.sleep(2);
         } catch (Exception e) { }
-        //Add enough Empty Lines
-        //Put the curse on the group Field of first line
-        //All courses must be available and status must be "ثبت"
-
-        //Add courses in order below
-        //First parameter is courseNumber and second one is course group
-        //Example:
+        
+        // Add desired courses here:
         TypeCourse("4302110", "02");
         TypeCourse("4303109", "01");
+        // ...
     }
 }
